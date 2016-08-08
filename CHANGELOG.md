@@ -1,5 +1,8 @@
 # CHANGELOG for husky
 
+* dev-develop
+    * FEATURE     #705 Added placeholder option to ckeditor component
+
 * 0.24.0 (2016-08-08)
     * ENHANCEMENT #698 Added responsive-width skin in overlay component
     * ENHANCEMENT #702 Implemented error handling on column-navigation load
