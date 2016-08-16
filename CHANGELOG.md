@@ -1,6 +1,7 @@
 # CHANGELOG for husky
 
 * dev-develop
+    * FEATURE     #714 Tabs and language Changer are now in a new section -> language Changer can be used without Tabs.
     * ENHANCEMENT #712 Removed data-navigation from navigation component
     * FEATURE     #706 Created tiles view for datagrid
 
